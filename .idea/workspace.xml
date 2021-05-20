@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5f681c9-d868-472e-b475-ca923451c739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/HomeExercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sonnetl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/HomeExercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/HomeExercise1.class" afterDir="false" />
-    </list>
+    <list default="true" id="e5f681c9-d868-472e-b475-ca923451c739" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +98,7 @@
       <workItem from="1621045320715" duration="6668000" />
       <workItem from="1621219765943" duration="8957000" />
       <workItem from="1621305200334" duration="16733000" />
-      <workItem from="1621475903192" duration="6225000" />
+      <workItem from="1621475903192" duration="6600000" />
     </task>
     <servers />
   </component>
