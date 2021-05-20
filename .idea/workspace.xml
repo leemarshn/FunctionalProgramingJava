@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f681c9-d868-472e-b475-ca923451c739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HomeExercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HomeExercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Sonnetl.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/HomeExercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/HomeExercise1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,9 +45,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeExercise1">
+  <component name="RunManager" selected="Application.HomeExercise2">
     <configuration name="HomeExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.HomeExercise1" />
+      <module name="FunctionalPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.HomeExercise2" />
       <module name="FunctionalPrograming" />
       <extension name="coverage">
         <pattern>
@@ -73,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeExercise2" />
         <item itemvalue="Application.HomeExercise1" />
         <item itemvalue="Application.Main" />
       </list>
@@ -91,7 +103,7 @@
       <workItem from="1621045320715" duration="6668000" />
       <workItem from="1621219765943" duration="8957000" />
       <workItem from="1621305200334" duration="16733000" />
-      <workItem from="1621475903192" duration="326000" />
+      <workItem from="1621475903192" duration="6225000" />
     </task>
     <servers />
   </component>
