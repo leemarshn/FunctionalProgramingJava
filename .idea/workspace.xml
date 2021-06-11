@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5f681c9-d868-472e-b475-ca923451c739" name="Default Changelist" comment="" />
+    <list default="true" id="e5f681c9-d868-472e-b475-ca923451c739" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Demos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FirstStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ImplementInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MainStudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Stream4Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StudentSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +57,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,22 +71,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeExercise2">
-    <configuration name="HomeExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HomeExercise1" />
-      <module name="FunctionalPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HomeExercise2" />
+  <component name="RunManager" selected="Application.MainStudentScores">
+    <configuration name="Demos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Demos" />
       <module name="FunctionalPrograming" />
       <extension name="coverage">
         <pattern>
@@ -77,11 +95,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainStudentScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MainStudentScores" />
+      <module name="FunctionalPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StreamDemo4" />
+      <module name="FunctionalPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TestMap" />
+      <module name="FunctionalPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeExercise2" />
-        <item itemvalue="Application.HomeExercise1" />
+        <item itemvalue="Application.MainStudentScores" />
+        <item itemvalue="Application.TestMap" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demos" />
+        <item itemvalue="Application.StreamDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +158,14 @@
       <workItem from="1621219765943" duration="8957000" />
       <workItem from="1621305200334" duration="16733000" />
       <workItem from="1621475903192" duration="6600000" />
+      <workItem from="1621564838972" duration="2554000" />
+      <workItem from="1621932618528" duration="7323000" />
+      <workItem from="1622081234036" duration="5282000" />
+      <workItem from="1622128643787" duration="3447000" />
+      <workItem from="1622165680931" duration="5274000" />
+      <workItem from="1622612645122" duration="9537000" />
+      <workItem from="1622734541819" duration="5235000" />
+      <workItem from="1623033652301" duration="35222000" />
     </task>
     <servers />
   </component>
