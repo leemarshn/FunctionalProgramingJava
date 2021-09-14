@@ -140,3 +140,21 @@ identity	value	will	be	0	because	`0	+	x	is	`x.
 
 ###### Optional<T>
 
+##### Primitive Streams
+
+* IntStream
+* DoubleStream
+* LongStream
+
+###### Primitives Stream methods
+* int, or long or double sum()
+* OptionalDouble average()
+* OptionalInt, OptionalDouble or OptionalLong -> min() & max()
+* Stream<T> boxed()
+* LongStream or IntStream range(int a, int b) / range(long a, long b) -> returns a primitive stream from a inclusive to b exclusive
+* rangeClosed includes the last digit/element
+
+* you can also create a primitive steam by mapping
+* mapToInt()
+* mapToDouble()
+* mapToLong()

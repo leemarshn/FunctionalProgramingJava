@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f681c9-d868-472e-b475-ca923451c739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Demos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FirstStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ImplementInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MainStudentScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Stream4Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StudentScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StudentSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SummaryStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Demos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Demos.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/MainStudentScores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/MainStudentScores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/com/company/Students.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Demos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Demos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +48,18 @@
   <component name="ProjectId" id="1sYMxbv2yXBF9gi5MISB0SahVK3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainStudentScores">
+  <component name="RunManager" selected="Application.Demos">
     <configuration name="Demos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Demos" />
       <module name="FunctionalPrograming" />
@@ -108,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.StreamDemo4" />
+    <configuration name="SummaryStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SummaryStatistics" />
       <module name="FunctionalPrograming" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demos" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SummaryStatistics" />
         <item itemvalue="Application.MainStudentScores" />
         <item itemvalue="Application.TestMap" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Demos" />
-        <item itemvalue="Application.StreamDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,20 @@
       <workItem from="1622165680931" duration="5274000" />
       <workItem from="1622612645122" duration="9537000" />
       <workItem from="1622734541819" duration="5235000" />
-      <workItem from="1623033652301" duration="35222000" />
+      <workItem from="1623033652301" duration="35485000" />
+      <workItem from="1623471117163" duration="6964000" />
+      <workItem from="1623599289917" duration="8077000" />
+      <workItem from="1623723790911" duration="12603000" />
+      <workItem from="1623893896427" duration="13208000" />
+      <workItem from="1624374503859" duration="2922000" />
+      <workItem from="1624588577216" duration="1404000" />
+      <workItem from="1624844665568" duration="1905000" />
+      <workItem from="1624929707198" duration="8972000" />
+      <workItem from="1625103797853" duration="5630000" />
+      <workItem from="1625192616442" duration="2180000" />
+      <workItem from="1625453588542" duration="1238000" />
+      <workItem from="1625536727379" duration="1935000" />
+      <workItem from="1625797338249" duration="88000" />
     </task>
     <servers />
   </component>
